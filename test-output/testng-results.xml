@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[Before Test- Accounts ]]>
+    </line>
+    <line>
+      <![CDATA[Before Class :Load Accounts Data]]>
+    </line>
+    <line>
+      <![CDATA[Create Account]]>
+    </line>
+    <line>
+      <![CDATA[Update Account]]>
+    </line>
+    <line>
+      <![CDATA[After Class:Load Accounts Data]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="44" started-at="2022-01-27T00:17:24 IST" finished-at="2022-01-27T00:17:24 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="44" started-at="2022-01-27T00:17:24 IST" finished-at="2022-01-27T00:17:24 IST">
+      <class name="org.TestNgEx2.AccountManager">
+        <test-method status="PASS" signature="BeforeTest()[pri:0, instance:org.TestNgEx2.AccountManager@74a10858]" name="BeforeTest" is-config="true" duration-ms="8" started-at="2022-01-27T00:17:24 IST" finished-at="2022-01-27T00:17:24 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Before Test- Accounts ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:org.TestNgEx2.AccountManager@74a10858]" name="beforeClass" is-config="true" duration-ms="0" started-at="2022-01-27T00:17:24 IST" finished-at="2022-01-27T00:17:24 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Before Class :Load Accounts Data]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="CreateAccount()[pri:0, instance:org.TestNgEx2.AccountManager@74a10858]" name="CreateAccount" duration-ms="5" started-at="2022-01-27T00:17:24 IST" finished-at="2022-01-27T00:17:24 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Create Account]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CreateAccount -->
+        <test-method status="PASS" signature="UpdateAccount()[pri:0, instance:org.TestNgEx2.AccountManager@74a10858]" name="UpdateAccount" duration-ms="1" started-at="2022-01-27T00:17:24 IST" finished-at="2022-01-27T00:17:24 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Update Account]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- UpdateAccount -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:org.TestNgEx2.AccountManager@74a10858]" name="afterClass" is-config="true" duration-ms="0" started-at="2022-01-27T00:17:24 IST" finished-at="2022-01-27T00:17:24 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[After Class:Load Accounts Data]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- org.TestNgEx2.AccountManager -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
